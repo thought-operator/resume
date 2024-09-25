@@ -209,6 +209,34 @@ tr:hover {
         margin-bottom: 0px;
       }
     }
+
+    section.affliations {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+    
+      .affliations-item {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0px;
+      }
+    }
+
+    section.awards {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+    
+      .awards-item {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0px;
+      }
+    }
   }
 }
 
